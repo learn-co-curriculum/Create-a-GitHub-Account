@@ -1,4 +1,4 @@
-# homeroom-create-github-account
+# Homeroom-create-github-account
 
 **Create a Github Account**
 
