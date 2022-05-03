@@ -2,7 +2,7 @@
 
 **Create a Github Account**
 
-Github is the most popular platform for code version control. Once your Github account is  In order to be successful in this course, it's crucial to have a Github account. 
+Github is the most popular platform for code version control. In order to be successful in this course, it's crucial to have a Github account. 
 
 To create a Github account, go to www.github.com/signup and follow the outlined steps to create your account.
 
